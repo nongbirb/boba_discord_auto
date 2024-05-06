@@ -1,0 +1,10 @@
+{
+    "Config": [
+        {
+            "token": "Your discord token ID",
+            "channelids": ["channel_id1", "channel_id2", "channel_id3"],
+            "messages": ["text1", "text2", "text3", "text4"]
+         }
+    ]
+
+}
